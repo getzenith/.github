@@ -1,12 +1,3 @@
-## Hi there 👋
+## Changing Climate? Unchanging Resilience.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Zenith is a burgeoning startup committed to crafting an all-encompassing disaster management and emergency response system. This system is meticulously designed to bolster preparedness, communication, and coordination amidst crises. It comprises a suite of hardware and software solutions meticulously tailored to address various facets of disaster mitigation, response, and recovery.
